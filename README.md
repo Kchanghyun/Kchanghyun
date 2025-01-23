@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={kch1549@outlook.com}&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={kch1549@outlook.com})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Kchanghyun})
 <!--
 **Kchanghyun/Kchanghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
